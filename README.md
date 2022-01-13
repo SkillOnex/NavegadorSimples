@@ -9,8 +9,7 @@ pra mostrar como ele pode funcionar.</p>
 
 #
 
-<p align="center"> O templete tem um sistema simples de conexão com Database Sql, sendo assim 
-Você consegue interagir com o login e registro.</p>
+<p align="center"> O templete tem um sistema simples de pesquisa, avançar,voltar e recarregar .</p>
 
 #
 
