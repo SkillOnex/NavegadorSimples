@@ -29,7 +29,7 @@ existem modos mais "bem feitos" e "seguros" para implementar.
 <p align="center"> Click na imagem para melhor visualização ! </p>
 
 <div style="display: inline_block"><br> 
-  <img align="center" height="550" width="1280" src="https://cdn.discordapp.com/attachments/902529056334028803/931293049731031040/unknown.png">
+  <img align="center" height="767" width="1359" src="https://cdn.discordapp.com/attachments/1057713749110292610/1107815763768770560/image.png">
 </div>
 
 #
